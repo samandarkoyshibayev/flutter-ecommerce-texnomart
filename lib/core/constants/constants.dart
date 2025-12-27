@@ -1,0 +1,1 @@
+const String baseUrl = 'https://gateway.texnomart.uz/api/web/v1/';
